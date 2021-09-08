@@ -1,0 +1,4 @@
+HOST='https://zabbix.zabbix'
+USER_NAME = 'username'
+PASSWORD = 'abaracadabra'
+LOGGING = False
